@@ -5,3 +5,4 @@ Collection of my cheatsheets (because I'm tired of constantly Googling the same 
 - [Raspberry Pi](RaspberryPi.md)
 - [Python](Python.md)
 - [Bash](Bash.md)
+- [Git](Git.md)
