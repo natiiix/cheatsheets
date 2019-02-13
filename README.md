@@ -6,3 +6,4 @@ Collection of my cheatsheets (because I'm tired of constantly Googling the same 
 - [Python](Python.md)
 - [Bash](Bash.md)
 - [Git](Git.md)
+- [.NET CLI](DotNet.md)
