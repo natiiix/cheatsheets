@@ -73,3 +73,12 @@ function FunctionName {
 Command must be terminated with `\;`.
 
 **Example:** `-exec cat "{}" \;` - Execute the `cat` command on each found file
+
+## File / directory size
+
+Prints the size of the specified file / directory.
+
+```bash
+du -sh <Path>
+``
+
