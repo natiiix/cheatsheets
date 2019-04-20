@@ -80,5 +80,5 @@ Prints the size of the specified file / directory.
 
 ```bash
 du -sh <Path>
-``
+```
 
